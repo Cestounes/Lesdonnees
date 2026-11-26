@@ -1,0 +1,9 @@
+.env
+!.env.exemple
+venv
+plugins
+logs
+*.log
+config
+__pycache__
+*.kate-swp
